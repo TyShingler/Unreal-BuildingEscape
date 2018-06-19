@@ -4,9 +4,13 @@
 */Intermediate
 */Saved
 BuildingEscape/Content/StarterContent/
+BuildingEscape/Content/StarterContent/Texture/
+BuildingEscape/Content/StarterContent/HDRI/
 
 *.VC.db
 *.VC.opendb
+*.suo
+*.sln
 
 BuildingEscape/.vs/BuildingEscape/v15/Solution.VC.db-shm
 BuildingEscape/.vs/BuildingEscape/v15/Solution.VC.db-wal
